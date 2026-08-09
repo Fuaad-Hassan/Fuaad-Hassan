@@ -41,12 +41,6 @@ Data analysis and health modeling project built around NHANES survey datasets to
 
 <br/>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" width="100%" alt="banner"/>
-  <br>
-  <p><em>Currently working on upcoming data & analytics projects…</em></p>
-</div>
-
 ---
 
 ## 🌐 Connect With Me
@@ -58,8 +52,8 @@ Data analysis and health modeling project built around NHANES survey datasets to
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fuaad-Hassan&show_icons=true&theme=dark" alt="Fuad Hasan's GitHub Stats"/>
-</p>
+</p> -->
