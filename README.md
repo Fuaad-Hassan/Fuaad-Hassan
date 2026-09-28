@@ -33,21 +33,17 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
-
----
-
+---                                               
 ### ⚙️ [Config-Driven Data Quality Pipeline](https://github.com/Fuaad-Hassan/data_quality_pipeline)
 An ETL pipeline utilizing a dead-letter queue architecture to prevent data pipeline failures. It validates incoming payloads against decoupled YAML contracts using Polars and automatically routes malformed records into a PostgreSQL JSONB quarantine layer for inspection.
 
 <br/>
-
 ### 🩺 [NHANES Hypertension Project](https://github.com/Fuaad-Hassan/nhanes_hypertension_project)
 An exploratory data analysis and statistical modeling project utilizing NHANES public health datasets to identify demographic correlations and risk factors associated with hypertension.
 
 <br/>
 
 ---
-
 ## 🌐 Connect With Me
 
 <p>
