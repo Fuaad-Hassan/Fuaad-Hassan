@@ -1,10 +1,11 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hello there! 👋 I'm Fuad
+  Hello there! I'm Fuad
 </h1>
 
 <p align="center">
   <strong>Data Scientist | Software Engineer</strong><br/>
+  <em>Building scalable data solutions & actionable insights</em>
 </p>
 
 ---
