@@ -36,13 +36,6 @@
 
 ---
 
-## 📌 Featured Work
-
-### 🧠 [End-to-End Behavioral Data Science Pipeline](https://github.com/Fuaad-Hassan/customer_behavioral)
-A containerized MLOps pipeline that uses Polars and XGBoost to translate raw clickstream data into psychographic user profiles. It serves real-time behavioral nudges through a FastAPI microservice, backed by MLflow for experiment tracking and SciPy for offline A/B testing validation.
-
-<br/>
-
 ### ⚙️ [Config-Driven Data Quality Pipeline](https://github.com/Fuaad-Hassan/data_quality_pipeline)
 An ETL pipeline utilizing a dead-letter queue architecture to prevent data pipeline failures. It validates incoming payloads against decoupled YAML contracts using Polars and automatically routes malformed records into a PostgreSQL JSONB quarantine layer for inspection.
 
