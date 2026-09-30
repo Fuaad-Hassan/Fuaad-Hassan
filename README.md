@@ -12,8 +12,8 @@
 
 ## 📌 Overview
 - 📊 **Role:** Data Scientist with a strong foundation in Software Engineering.
-- ⚙️ **Approach:** Pragmatic and results-driven. I bridge the gap between complex mathematical modeling and clean, functional code to deliver actionable solutions.
-- 🛠️ **Standards:** I approach data with an engineer's mindset. By applying strict development standards, I ensure that every pipeline, model, and tool I build is robust, scalable, and maintainable.
+- ⚙️ **Approach:** Pragmatic and results-driven. Translating complex mathematical models into clean, functional code to deliver actionable solutions.
+- 🛠️ **Standards:** Approaching data and analytics with an engineering mindset by applying strict development standards to build robust, maintainable pipelines, models, and tools.
 
 ---
 
